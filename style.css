@@ -1,0 +1,94 @@
+body{
+    background:#fff;
+    color:blue;
+}
+
+.navbar{
+  background: #fff;
+  }
+  .navbar .nav-link {
+    font-size: 15px;
+    padding-left: 1em !important;
+    padding-right: 2em !important; }
+
+#home-section{
+    min-height: 100px;
+}
+    #home-section    .home-inner{
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+    #home-section    .lead_1{
+        font-size: 15px;
+        color: #000;
+    }
+    #home-section .col-md-12{
+        text-align: center;       
+}
+
+#boxes  .col-lg-2{
+    padding: 25px;
+    margin:19px;
+}
+    
+    #boxes .fas{
+        font-size: 30px;
+        background: #fff;
+        padding: 4px;
+        border-radius: 5px;
+}
+
+
+#home-video{
+    min-height: 0px;
+    width:470px;
+    margin-top:100px;
+}
+    #home-video    .home-inner{
+        padding-top: 20px;
+        padding-bottom: 19px;
+    }
+    #home-video .col-md-12{
+        text-align: left;  
+    }
+    #home-video  .col-lg-5{
+        padding: 25px;
+        margin:1px;
+    }
+
+    #home-video .fab{
+        font-size: 30px;
+        padding: 5px;
+        margin-top: 20px;
+        text-align:left;
+        border-radius:100%;
+        padding-left:30px;
+    }
+    #home-video  .lead{
+    padding-left:30px;
+}
+
+  
+#teambox{
+        background: #295bd8;
+    }
+        #teambox .p1{
+            text-transform: uppercase;
+            font-size:14px;
+}
+
+#roadmap .p2{
+    text-align: left;
+}
+    #roadmap .far{
+      color:black;
+    }
+
+    #roadmap .col-md-2 .p4{
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+#footer-main{
+    background: #295bd8;
+}
